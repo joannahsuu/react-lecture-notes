@@ -1,0 +1,24 @@
+.course {
+  display: flex;
+  margin: 15px 0;
+  background: #fed;
+  padding: 5px;
+}
+
+.cover {
+  flex: 0 0 200px;
+  height: 100px;
+  background: center center no-repeat;
+  background-size: cover;
+}
+
+.info {
+  flex: 1;
+  font-family: Microsoft Jianhei;
+  font-size: 10px;
+}
+
+.title {
+  font-size: 1.5em;
+  color: blue;
+}

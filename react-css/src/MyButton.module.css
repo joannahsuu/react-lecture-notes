@@ -1,0 +1,13 @@
+.btn {
+  background: #b6b6d0;
+  border-radius: 20px;
+  font-size: 2em;
+  width: 250px;
+  text-align: center;
+  padding: 0.5em 0;
+  margin: 0 0.5em;
+}
+
+.btn-text {
+  color: red;
+}

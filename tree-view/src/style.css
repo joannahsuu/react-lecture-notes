@@ -1,0 +1,11 @@
+.folder {
+  color: #3F51B5;
+}
+
+.folder::before{
+  content: '📁';
+}
+
+.folder.open::before{
+  content: '📂';
+}
